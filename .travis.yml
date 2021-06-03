@@ -3,4 +3,4 @@ scala:
   - 2.13.3
 
 jdk:
-  - oraclejdk8
+  - oraclejdk9
