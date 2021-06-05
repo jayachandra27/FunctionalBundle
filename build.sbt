@@ -19,3 +19,5 @@ libraryDependencies ++= Seq(
   "ch.qos.logback" % "logback-classic" % "1.2.3",
   "com.typesafe.akka" %% "akka-slf4j" % AkkaVersion
 )
+
+addCompilerPlugin("com.olegpy" %% "better-monadic-for" % "0.3.1")
