@@ -17,7 +17,9 @@ libraryDependencies ++= Seq(
   "org.typelevel" %% "discipline-scalatest" % "2.1.5" % Test,
   "com.typesafe.akka" %% "akka-http-spray-json" % AkkaHttpVersion,
   "ch.qos.logback" % "logback-classic" % "1.2.3",
-  "com.typesafe.akka" %% "akka-slf4j" % AkkaVersion
+  "com.typesafe.akka" %% "akka-slf4j" % AkkaVersion,
+  "org.typelevel" %% "cats-effect-testing-specs2" % "1.1.1" % Test,
+  "dev.zio" %% "zio-test" % "1.0.8" % Test
 )
 
 addCompilerPlugin("com.olegpy" %% "better-monadic-for" % "0.3.1")
