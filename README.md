@@ -5,7 +5,7 @@ All new features and open source tests are conducted here in and then they are p
 
 The main foucs of this library is to Test and document all the methods available in all libraries/toolkits and how a same problem can be solved with the help of 3 different libraries/toolkits with Scala as base language.
 
-Docmentation of all the libraries/toolkits can be found below- 
+Documentation of all the libraries/toolkits can be found below- 
 
 
 Scala3/Dotty - https://dotty.epfl.ch/  
